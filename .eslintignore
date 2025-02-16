@@ -7,6 +7,9 @@ test-results/
 # Ignore Cucumber feature files
 features/
 
+# Ignore assets directory
+assets/
+
 # Ignore generated Cucumber report
 cucumber-report.html
 
